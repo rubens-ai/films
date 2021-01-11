@@ -2,8 +2,18 @@ The films
 I want to watch these films:
 The Big Lebowski
 Kill Bill
+Wachowski-Brothers
+Matrix 1
+Matrix 2
+Matrix 3
+----
+Jumanji
+LOTR
+Doom
+Avatar
 Pup Fiction
 Titanic
+War-Films
 Saving Private Ryan
 Stalingrad
 Enemy At The Gates
